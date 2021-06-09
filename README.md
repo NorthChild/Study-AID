@@ -9,3 +9,4 @@ Just did this as an exercise, also, i love graphs...
 
 to view, download the html file, its a jupyter notebook 
 
+# work in progress, this isnt anywhere close to being completed, i have the file on my machine, the file on github was the code i grubbed from stack, dont copy cos it wont work #
